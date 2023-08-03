@@ -1,5 +1,5 @@
 ﻿#include <chrono>
-#include <conio.h>
+#include <cstring>
 #include <iostream>
 #include "status_lib.h"
 #include <thread>
